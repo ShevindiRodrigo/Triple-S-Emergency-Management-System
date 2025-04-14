@@ -1,4 +1,5 @@
-![classDiagram_dreamTeam](https://github.com/user-attachments/assets/b72d1f55-3c6c-47c3-a136-50162e8876cf)# Triple S Emergency Management System 🚨
+![classDiagram_dreamTeam](https://github.com/user-attachments/assets/b72d1f55-3c6c-47c3-a136-50162e8876cf)
+# Triple S Emergency Management System 🚨
 
 ## Project Overview
 
